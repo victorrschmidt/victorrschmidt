@@ -7,5 +7,5 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrschmidt&layout=compact&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />        
-<img src="https://github-readme-stats.vercel.app/api?username=victorrschmidt&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrschmidt">
 </picture>
