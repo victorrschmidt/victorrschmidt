@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/readme_welcome.png" width="720" alt="bem-vindo(a)">  
+    <img src="img/readme_welcome.png" width="520" alt="bem-vindo(a)">  
 </p>
 
 ## Meu nome é Victor
