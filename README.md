@@ -1,5 +1,18 @@
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrschmidt&layout=compact&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrschmidt&layout=compact&text_color=000000&border_color=707070">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrschmidt&layout=compact&text_color=000000&border_color=707070" width="350" alt="language-stats">
-</picture>
+# Testee
+
+<p>
+    <a href="https://www.linkedin.com/in/victorrschmidt"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+    <a href="mailto:vicoschmidt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+</p>
+
+
+### Interesses
+
+- Programação web
+- Engenharia de software
+- Algoritmos e estruturas de dados
+- Programação competitiva
+
+### Linguagens
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,cpp" alt="html-css-javascript-php-postgres-cpp">
