@@ -12,7 +12,7 @@
 
 Sou um estudante apaixonado por programação e tecnologia, sempre buscando aprender mais e aperfeiçoar meus conhecimentos. Tenho interesse especial por algoritmos, estruturas de dados e programação competitiva. Atualmente estou cursando (técnico - 3° ano) informática para a internet no IFRS - _Campus_ Rio Grande. 
 
-### Linguagens e ferramentas
+### Linguagens & ferramentas
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,cpp,vscode" width="400" alt="html-css-javascript-php-postgres-cpp-vscode">
 
