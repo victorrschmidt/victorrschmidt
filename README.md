@@ -2,7 +2,7 @@
     <img src="img/readme_welcome.png" width="520" alt="bem-vindo(a)">  
 </p>
 
-## Meu nome é Victor
+## Me chamo Victor!
 
 <p>
     <a href="https://www.linkedin.com/in/victorrschmidt"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
