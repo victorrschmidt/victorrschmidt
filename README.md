@@ -10,7 +10,7 @@
     <a href="https://www.instagram.com/viktouis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
 </p>
 
-Sou um estudante apaixonado por programação e tecnologia, sempre buscando aprender mais e aperfeiçoar meus conhecimentos. Tenho interesse especial por algoritmos, estruturas de dados e programação competitiva. Atualmente estou cursando (técnico - 3° ano) informática para internet no IFRS - _Campus_ Rio Grande.    
+Sou um estudante apaixonado por programação e tecnologia, sempre buscando aprender mais e aperfeiçoar meus conhecimentos. Tenho interesse especial por algoritmos, estruturas de dados e programação competitiva. Atualmente estou cursando (técnico - 3° ano) Informática para Internet no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - _Campus_ Rio Grande.    
  
 ### Linguagens & ferramentas
 
