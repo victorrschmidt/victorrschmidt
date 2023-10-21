@@ -10,6 +10,6 @@
     <a href="https://www.instagram.com/viktouis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
 </p>
 
-Sou estudante de Informática para Internet (técnico) no Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Sul - _Campus_ Rio Grande.
+Sou estudante de Informática para Internet (técnico) no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - _Campus_ Rio Grande.
 
 Tenho interesse especial por programação web, algoritmos e programação competitiva.
