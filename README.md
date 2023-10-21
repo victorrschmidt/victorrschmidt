@@ -10,10 +10,6 @@
     <a href="https://www.instagram.com/viktouis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
 </p>
 
-Sou um estudante apaixonado por programação e tecnologia. Tenho interesse especial por algoritmos, estruturas de dados e programação competitiva. Atualmente estou cursando (técnico - 3° ano) Informática para Internet no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - _Campus_ Rio Grande.    
- 
-### Linguagens & ferramentas
+Sou estudante de Informática para Internet (técnico) no Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Sul - _Campus_ Rio Grande.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,cpp,vscode" width="400" alt="html-css-javascript-php-postgres-cpp-vscode">
-
-<sub>Todo conteúdo neste perfil é de código livre e aberto</sub>
+Tenho interesse especial por programação web, algoritmos e programação competitiva.
