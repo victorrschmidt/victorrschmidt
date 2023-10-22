@@ -12,4 +12,4 @@
 
 Sou estudante de Informática para Internet (técnico) no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - _Campus_ Rio Grande.
 
-Tenho interesse especial por programação web, algoritmos e programação competitiva.
+Tenho interesse por programação web, algoritmos e programação competitiva.
